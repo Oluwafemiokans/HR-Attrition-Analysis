@@ -27,7 +27,7 @@ In the initial data preparation phase, we performed the following
 2. Handling missing values
 3. Data Cleaning and Formatting
 
-## Business Questions
+## Attrition Questions
 
 1. What is the attrition rates by department
 
@@ -36,3 +36,11 @@ In the initial data preparation phase, we performed the following
 3. What is the attrition rates my level of education
 
 4. What is the attrition by gender
+
+## Recommendations
+
+1. I recommend diving into the root causes of employee turnover by conducting exit interviews and surveys to gather insights.
+
+2. Focus on improving employee engagement, career development oppourtunities, and workplace culture to reduce attrition.
+
+3. Impleting retention strategies such as mentorship programs, career advancement pathways, and recognition initiatives to boost employee satisfaction and retention. 
